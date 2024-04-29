@@ -1,6 +1,6 @@
 # Full Stack "Keeper" Notepad Application
 
-This project was created by Rhys Talley using React.
+This project was created by Rhys Talley using React, Node.js, and MongoDB as a project for COMS W3102.
 
 ## Functionality
 
